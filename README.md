@@ -1,7 +1,3 @@
-Sure, here's a readme file generated based on the provided code, highlighting the Potato disease classification project deployed using FastAPI and TensorFlow Serving:
-
----
-
 # Potato Disease Classification with FastAPI and TensorFlow Serving
 
 This project aims to classify diseases in potato plants using machine learning techniques. It utilizes FastAPI for building a web API and TensorFlow Serving for deploying the trained model.
